@@ -1,16 +1,19 @@
-# Movie Info Bot 🎬
+# CinemaBot 🎬
 
-This is a Telegram bot for searching and displaying basic information about movies and TV series using the TMDb API. It supports Persian language for results and can show the title, overview, rating, and genres.
+CinemaBot is a Telegram bot designed to introduce and display information about movies and TV shows using public APIs such as OMDb and TMDb.
 
 ## Features
-- Search by title
-- Show summary and rating
-- TMDb API integration
-- Persian language support
+- Search and display movie or TV series info
+- Category-based movie browsing (Marvel, DC, etc.)
+- Ratings and descriptions for each title
+- User-friendly Telegram interface
 
-This bot is created for educational and non-commercial use, intended to help Persian-speaking users find and explore film information.
+⚠️ This bot **does not provide download links**. It is only for educational and informational purposes to showcase how APIs can be integrated into Telegram bots.
 
-## Requirements
-- Python 3.10+
-- `python-telegram-bot`
-- `requests`
+## Demo Screenshot
+(Add a screenshot here if you want, it helps them trust your project more.)
+
+## Built with
+- Python
+- python-telegram-bot
+- OMDb / TMDb API
